@@ -141,4 +141,4 @@ README.md: This file contains all technical documentation.
 
 Live Link: Deploy via Vercel/Netlify for synchronized HLS streams.
 
-Vercel Link : 
+Vercel Link : https://video-dashboard-seven.vercel.app/
